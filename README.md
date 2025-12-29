@@ -2,7 +2,7 @@
 
 🎓 Final-year B.S. in Data Science & Applications @ IIT Madras  
 🔬 Research Intern @ CIFIL, IIT Madras  
-💻 Interests: Machine Learning, Deep Learning, LLM Systems & Full-Stack Development  
+💻 Interests: LLM Systems, Deep Learning, Machine Learning & Full-Stack Development  
 
 🌱 Currently working on scalable DL systems, NLP pipelines, and production-ready ML platforms  
 📫 Reach me: https://www.linkedin.com/in/shreyakumari0301/  
