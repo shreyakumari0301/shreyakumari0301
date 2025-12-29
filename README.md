@@ -49,27 +49,3 @@
 - **Fintech News Aggregator** – Streamlit-based RSS aggregator with keyword-driven (rule-based) classification into Funding, Global, and National categories
 
 
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, JavaScript, HTML/CSS, Java  
-**Deep Learning:** PyTorch, TensorFlow, Keras, Transformers, YOLOv8, Whisper  
-**ML & Data:** Scikit-learn, Pandas, NumPy  
-**LLMs:** LangChain, LangGraph, OpenAI API, Groq, Ollama  
-**Databases & Vector Stores:** PostgreSQL, SQLite, FAISS, ChromaDB  
-**Web & APIs:** FastAPI, Flask, React, Vue.js, Streamlit  
-**Tools:** Git, Docker, Linux, Nginx, Postman, Power BI  
-
----
-
-## 📌 Highlights
-- Experience across **CV, NLP, Speech & LLM systems**
-- Built **research-grade DL pipelines** and **production-ready web platforms**
-- Hands-on with **TPUs, GPUs, and large-scale datasets**
-- Strong focus on **end-to-end system design**
-
----
-
-More on my GitHub 👇  
-https://github.com/shreyakumari0301
