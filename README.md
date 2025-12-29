@@ -38,14 +38,16 @@
 
 ### 🌐 Full-Stack / Systems
 - **GuruSetu** – Full-stack web platform (React + FastAPI) built from scratch for academic workflows | https://gurusetu.iitm.ac.in
-- **AutoFinModels** – No-code ML/DL experimentation platform with preprocessing, training & evaluation  
+- **AI-Powered Virtual Learning Assistant** - GenAI-based agent that enhances student engagement by providing personalized guidance, recommending resources, and promoting effective study strategies.
 - **Service Management Platform** – Vue + Flask-based dashboard application  
-- **Event-Driven Backtesting Engine** – GPU-accelerated quantitative backtesting system (CUDA, Numba, CuPy)
 
 ---
 
 ### 🎯 Fun / Side Projects
+- **Event-Driven Backtesting Engine** – GPU-accelerated quantitative backtesting system (CUDA, Numba, CuPy)
+- **AutoFinModels** – No-code ML/DL experimentation platform with preprocessing, training & evaluation  
 - **Fintech News Aggregator** – Streamlit-based RSS aggregator with keyword-driven (rule-based) classification into Funding, Global, and National categories
+
 
 ---
 
