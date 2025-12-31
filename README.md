@@ -1,7 +1,7 @@
 👋 Hi, I’m Shreya Kumari  
 
 🎓 Final-year B.S. in Data Science & Applications @ IIT Madras  
-🔬 Research Intern @ CIFIL, IIT Madras  
+🔬 Ex Research Intern @ CIFIL, IIT Madras  
 💻 Interests: LLM Systems, Deep Learning, ML & Full-Stack Development  
 🌱 Working on scalable DL systems, NLP pipelines, and production-ready ML platforms  
 😄 Pronouns: she/her | ⚡ Fun fact: I enjoy building systems end-to-end  
