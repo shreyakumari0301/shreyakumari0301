@@ -1,7 +1,7 @@
 👋 Hi, I’m Shreya Kumari  
 
 🎓 Final-year B.S. in Data Science & Applications @ IIT Madras  
-🔬 ML Intern @ MI Lab, IIT Madras  
+🔬 ML Intern @ Materials Informatics Lab, IIT Madras  
 🔬 Ex Research Intern @ CIFIL, IIT Madras  
 💻 Interests: LLM Systems, Deep Learning, ML & Full-Stack Development  
 🌱 Working on scalable DL systems, NLP pipelines, and production-ready ML platforms  
