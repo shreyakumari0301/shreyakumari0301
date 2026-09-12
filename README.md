@@ -1,20 +1,32 @@
-👋 Hi, I’m Shreya Kumari  
+# 👋 Hi, I'm Shreya Kumari
 
-🎓 Final-year B.S. in Data Science & Applications @ IIT Madras  
-🔬 ML Intern @ Materials Informatics Lab, IIT Madras  
-🔬 Ex Research Intern @ CIFIL, IIT Madras  
-💻 Interests: LLM Systems, Deep Learning, ML & Full-Stack Development  
-🌱 Working on scalable DL systems, NLP pipelines, and production-ready ML platforms  
-😄 Pronouns: she/her | ⚡ Fun fact: I enjoy building systems end-to-end  
+🎓 Final-year **B.S. Data Science & Applications @ IIT Madras**  
+🔬 **Research Engineer @ MedOS Tech**  
+🧠 Research experience with **NUS, MBZUAI & IIT Madras**  
+💡 Interests: **World Models, LLM Agents, Multimodal AI & Scientific ML**  
+⚡ Building AI systems that reason, plan, use tools, and learn from interaction.
 
 ---
 
-## 🚀 Selected Projects
+## 🔬 Selected Research
 
-- **LLM Council** – Multi-LLM cross-verification system (Groq / Ollama)
-- **Brain Tumor Detection** – CNN-based MRI image classification pipeline achieving 95% accuracy
-- **Ensemble Image Classification** – Handwritten digit recognition (ResNet, DenseNet, EfficientNet)  
-- **GuruSetu** – Full-stack React + FastAPI platform for academic workflows | [Demo](https://gurusetu.iitm.ac.in)  
-- **AI Virtual Learning Assistant** – GenAI agent for personalized student guidance  
-- **Event-Driven Backtesting Engine** – GPU-accelerated quantitative backtesting (CUDA, Numba, CuPy)  
-- **SMS Spam Detection** – Ensemble & classic ML models with preprocessing  
+### 🌍 World Models & Inference-Time Planning — NUS
+Working on **learned value/Q world models** for inference-time planning, evaluating candidate actions through future rollouts with confidence-gated action selection.
+
+### 👁️ ViTA — Self-Evolving Visual Agents
+**NeurIPS 2026 Submission (Under Review)**  
+Multimodal agents that identify capability gaps and dynamically synthesize and validate new tools at inference time.
+
+### 🧠 CTA-RAG — MedOS Tech
+Built a task-aware RAG system with **5 specialized retrieval/reasoning pipelines**, achieving **0.945 ATT&CK F1** and **>99% routing accuracy**.
+
+### 🏥 Clinical World Model — MBZUAI
+Built an evidence-grounded world model using **OpenFDA, PubMed & DrugBank** for multi-step treatment-response simulation and LLM-based parameter extraction.
+
+### 🧪 Autonomous Materials Discovery — IIT Madras
+Built a closed-loop **plan → fabricate → measure → optimize** workflow with **ROS-based robotic control**, reducing fabrication time from ~40h to 6–8h.
+
+### 🧬 Scientific ML
+Developed molecular ML models using **Transformers + RDKit** for ionic-liquid CO₂ capture and decomposition-temperature prediction.
+
+---
