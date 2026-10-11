@@ -10,7 +10,7 @@
 
 ## 🔬 Selected Research
 
-### 🌍 World Models & Inference-Time Planning — NUS
+### 🌍 World Models & Inference-Time Planning — SMU
 Working on **learned value/Q world models** for inference-time planning, evaluating candidate actions through future rollouts with confidence-gated action selection.
 
 ### 👁️ ViTA — Self-Evolving Visual Agents
