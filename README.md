@@ -2,7 +2,7 @@
 
 🎓 Final-year **B.S. Data Science & Applications @ IIT Madras**  
 🔬 **Research Engineer @ MedOS Tech**  
-🧠 Research experience with **NUS, MBZUAI & IIT Madras**  
+🧠 Research experience with **SMU, MBZUAI & IIT Madras**  
 💡 Interests: **World Models, LLM Agents, Multimodal AI & Scientific ML**  
 ⚡ Building AI systems that reason, plan, use tools, and learn from interaction.
 
